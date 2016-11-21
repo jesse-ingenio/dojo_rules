@@ -1,7 +1,7 @@
 {
   "name": "Dojo rules",
   "tagline": "",
-  "body": "### Welcome to our Dojo Rules\r\nOn this site we want to share our previously secret dojo rules with the world.",
+  "body": "### Welcome to our Dojo Rules\r\nOn this site we want to share our previously secret dojo rules with the world.\r\n\r\n## Bad Code\r\n`for i = 0; i < 2; i --`\r\n\r\n***\r\n\r\n## Good Code\r\n`x = 3;`",
   "google": "",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
